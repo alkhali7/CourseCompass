@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const PORT = process.env.PORT || 3000; // Use environment variable for port or default to 3000
+const PORT = process.env.PORT || 2500; // Use environment variable for port or default to 3000
 
 // Serve static files from the 'public' directory
 app.use(express.static('public'));
