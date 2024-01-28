@@ -1,0 +1,161 @@
+:root {
+    --primary-color: #6a11cb;  /* Deep purple */
+    --secondary-color: #2575fc; /* Bright blue */
+    --text-color: #ffffff;
+    --content-bg-color: rgba(255, 255, 255, 0.8); /* Light background for content */
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: var(--text-color);
+    background: linear-gradient(to right, var(--primary-color), var(--secondary-color));
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent navbar */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-left: 20px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.main-header {
+    background-color: rgba(44, 62, 80, 0.9);
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.assignment-form {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+
+
+.todo-section, .urgent-section, .completed-section, .tips-section {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.submit-btn {
+    background-color: var(--secondary-color);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    width: 100%;
+}
+
+.submit-btn:hover {
+    background-color: var(--primary-color);
+}
+
+#search-container {
+    margin-bottom: 10px;
+}
+
+#search-bar {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+/* Style for the move to completed button */
+.move-to-completed-btn {
+    background-color: var(--accent-color);
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-left: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.move-to-completed-btn:hover {
+    opacity: 0.8;
+}
+body, h1, h2, h3, button, input {
+    font-size: 1.2em; /* Increasing font size for better readability */
+}
+
+/* Enhanced styling for list items */
+li {
+    background-color: rgba(150, 145, 231, 0.195);
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(125, 47, 47, 0.44);
+}
+
+/* Styling for priority labels */
+.priority-label {
+    display: inline-block;
+    padding: 5px;
+    margin-right: 10px;
+    border-radius: 13px;
+    font-size: 0.9em;
+}
+
+.priority-high {background: linear-gradient(to right, #ff6b6b, #ff8787); }
+.priority-medium {background: linear-gradient(to right, #fff56b, #edff8780); }
+.priority-low {background: linear-gradient(to right, #72ff6b, #87ff9589); }
+
+/* Countdown timer styling */
+.countdown-timer {
+    float: right;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: rgba(44, 62, 80, 0.9);
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .navbar .nav-links {
+        display: none;
+    }
+    .footer-content {
+        flex-direction: column;
+    }
+}
