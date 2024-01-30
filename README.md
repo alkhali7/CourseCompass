@@ -1,5 +1,5 @@
 # CourseCompass
-![logo](https://github.com/alkhali7/CourseCompass/assets/113218458/38d8b9d9-b280-4dee-b80b-20ff5d5b202d)
+<img src="https://github.com/alkhali7/CourseCompass/assets/113218458/38d8b9d9-b280-4dee-b80b-20ff5d5b202d" width="100" height="100">
 
 ## Overview
 Course Compass is an innovative web-based application designed to simplify and enhance the academic experience for Michigan State University (MSU) students. It serves as an all-encompassing academic navigator that integrates with the D2L Brightspace API to provide a consolidated view of students' schedules, coursework, and deadlines.
