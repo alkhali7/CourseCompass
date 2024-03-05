@@ -1,0 +1,212 @@
+[
+    {
+        "courseId": "IAH 231C",
+        "assignments": [
+            {
+                "title": "Essay on Language and Culture",
+                "dueDate": "2024-02-10",
+                "assignedTo": [
+                    "Ramisa Anjum",
+                    "Kajal Modi"
+                ]
+            },
+            {
+                "title": "Presentation on Societal Roles",
+                "dueDate": "2024-03-05",
+                "assignedTo": [
+                    "Shams Alkhalidy",
+                    "Veeksha Sudhir"
+                ]
+            }
+        ]
+    },
+    {
+        "courseId": "CAS 114",
+        "assignments": [
+            {
+                "title": "Essay on How To Find Target Audience",
+                "dueDate": "2024-02-30",
+                "assignedTo": [
+                    "Ramisa Anjum",
+                    "Kajal Modi"
+                ]
+            },
+            {
+                "title": "Presentation on Finding Niche Market",
+                "dueDate": "2024-03-05",
+                "assignedTo": [
+                    "Shams Alkhalidy",
+                    "Veeksha Sudhir"
+                ]
+            }
+        ]
+    },
+    {
+        "courseId": "MTH 202",
+        "assignments": [
+            {
+                "title": "WebWork 2",
+                "dueDate": "2024-01-30",
+                "assignedTo": [
+                    "Ramisa Anjum",
+                    "Kajal Modi"
+                ]
+            },
+            {
+                "title": "WebWork 2",
+                "dueDate": "2024-01-05",
+                "assignedTo": [
+                    "Shams Alkhalidy",
+                    "Veeksha Sudhir"
+                ]
+            }
+        ]
+    },
+    {
+        "courseId": "TE 431",
+        "assignments": [
+            {
+                "title": "Studying Modern Drama",
+                "dueDate": "2024-01-30",
+                "assignedTo": [
+                    "Ramisa Anjum",
+                    "Kajal Modi"
+                ]
+            },
+            {
+                "title": "Shakespear",
+                "dueDate": "2024-01-05",
+                "assignedTo": [
+                    "Shams Alkhalidy",
+                    "Veeksha Sudhir"
+                ]
+            }
+        ]
+    },
+    {
+        "courseId": "VM 539",
+        "assignments": [
+            {
+                "title": "Anatomy of Cats",
+                "dueDate": "2024-04-30",
+                "assignedTo": [
+                    "Ramisa Anjum",
+                    "Kajal Modi"
+                ]
+            },
+            {
+                "title": "Exotic Pets",
+                "dueDate": "2024-04-05",
+                "assignedTo": [
+                    "Shams Alkhalidy",
+                    "Veeksha Sudhir"
+                ]
+            }
+        ]
+    },
+    {
+        "courseId": "PHY 192",
+        "assignments": [
+            {
+                "title": "Exam 1",
+                "dueDate": "2024-03-30",
+                "assignedTo": [
+                    "Ramisa Anjum",
+                    "Kajal Modi"
+                ]
+            },
+            {
+                "title": "Exam 1",
+                "dueDate": "2024-03-25",
+                "assignedTo": [
+                    "Shams Alkhalidy",
+                    "Veeksha Sudhir"
+                ]
+            }
+        ]
+    },
+    {
+        "courseId": "AAAS 100",
+        "assignments": [
+            {
+                "title": "Afrofuturism",
+                "dueDate": "2024-05-30",
+                "assignedTo": [
+                    "Ramisa Anjum",
+                    "Kajal Modi"
+                ]
+            },
+            {
+                "title": "Art and Afrofuturism",
+                "dueDate": "2024-05-15",
+                "assignedTo": [
+                    "Shams Alkhalidy",
+                    "Veeksha Sudhir"
+                ]
+            }
+        ]
+    },
+    {
+        "courseId": "IBIO 150",
+        "assignments": [
+            {
+                "title": "Mutation",
+                "dueDate": "2024-02-20",
+                "assignedTo": [
+                    "Ramisa Anjum",
+                    "Kajal Modi"
+                ]
+            },
+            {
+                "title": "Ancestor and Traits",
+                "dueDate": "2024-02-25",
+                "assignedTo": [
+                    "Shams Alkhalidy",
+                    "Veeksha Sudhir"
+                ]
+            }
+        ]
+    },
+    {
+        "courseId": "VM 539",
+        "assignments": [
+            {
+                "title": "Hospital Laws",
+                "dueDate": "2024-03-30",
+                "assignedTo": [
+                    "Ramisa Anjum",
+                    "Kajal Modi"
+                ]
+            },
+            {
+                "title": "Hospital Laws",
+                "dueDate": "2024-03-30",
+                "assignedTo": [
+                    "Shams Alkhalidy",
+                    "Veeksha Sudhir"
+                ]
+            }
+        ]
+    },
+    {
+        "courseId": "VM 539",
+        "assignments": [
+            {
+                "title": "Exam 2",
+                "dueDate": "2024-03-01",
+                "assignedTo": [
+                    "Ramisa Anjum",
+                    "Kajal Modi"
+                ]
+            },
+            {
+                "title": "Exam 2",
+                "dueDate": "2024-03-01",
+                "assignedTo": [
+                    "Shams Alkhalidy",
+                    "Veeksha Sudhir"
+                ]
+            }
+        ]
+    }
+]

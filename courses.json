@@ -1,0 +1,69 @@
+[
+    {
+      "id": "IAH 231C",
+      "name": "Roles of Language in Society (D)",
+      "description": "Language as the medium of culture in various societies...",
+      "instructor": "Kirk S Kidwell"
+    },
+    {
+      "id": "CAS 114",
+      "name": "Creativity and Innovative Entrepreneurship",
+      "description": "Creative processes, complex problem solving...",
+      "instructor": "Ross Milton Chowles"
+    },
+    {
+      "id": "IBIO 150",
+      "name": "Integrating Biology: From DNA to Populations",
+      "description": "Examine biological systems across multiple levels of organization...",
+      "instructor": "Cory B Kohn"
+    },
+    {
+      "id": "MTH202",
+      "name": "Calculus II",
+      "description": "A continuation of Calculus I, covering integral calculus...",
+      "instructor": "Dr. John Doe"
+    },
+    {
+      "id": "AAAS 100",
+      "name": "Pathways into AAAS",
+      "description": "Current trends and topics in African American and African Studies...",
+      "instructor": "Chamara Jewel Kwakye"
+    },
+    {
+      "id": "PHY 192",
+      "name": "Physics Laboratory for Scientists, II",
+      "description": "Electric and magnetic fields, circuits, wave optics, modern physics.",
+      "instructor": "Dr. John Doe"
+    },
+    {
+      "id": "MKT 313",
+      "name": "Consultative Selling",
+      "description": "Role of the sales organization and nature of customer and channel relationships...",
+      "instructor": "Jeffery J Hittler"
+    },
+    {
+      "id": "MED 492",
+      "name": "Basics and Methods in Biomedical Research",
+      "description": "Introduction to research concepts, strategies, methods...",
+      "instructor": "Elahe Crockett-Torabi"
+    },
+    {
+      "id": "HST 304",
+      "name": "The Civil War Era",
+      "description": "Political, constitutional, social, economic and military conflict between the North and the South...",
+      "instructor": "McKayla Renee Sluga"
+    },
+    {
+      "id": "TE 431",
+      "name": "Learning Through Drama",
+      "description": "Introduction to the power of teaching and learning through drama...",
+      "instructor": "Joan Elizabeth Starr"
+    },
+    {
+      "id": "VM 539",
+      "name": "Veterinary Career and Practice Management V",
+      "description": "Medical records management, laws applicable to the practice of veterinary medicine...",
+      "instructor": "Donna L Harris Kober"
+    }
+  ]
+  
