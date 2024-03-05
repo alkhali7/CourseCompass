@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- <div class="logo">
+        <img src="/logo.png" alt="Course Compass Logo" id="header-logo">
+    </div> -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Course Compass</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">
+            <img src="/logo.png" alt="Course Compass Logo" id="header-logo">
+            <h1>Course Compass</h1>
+        </div>
+        <ul class="nav-links">
+            <li><a href="#new-assignment-form">Add Assignment</a></li>
+            <li><a href="#todo-list">To-Do List</a></li>
+            <li><a href="#urgent-assignments">Urgent Assignments</a></li>
+        </ul>
+    </nav>
+    <header class="main-header">
+        <h2>Welcome to Course Compass</h2>
+    </header>
+    <main>
+        <form id="new-assignment-form" class="assignment-form">
+            <div class="form-group">
+                <label for="assignment-name">Assignment Name:</label>
+                <input type="text" id="assignment-name" name="assignment_name" required>
+            </div>
+            <div class="form-group">
+                <label for="due-date">Due Date:</label>
+                <input type="date" id="due-date" name="due_date" required>
+            </div>
+            <button type="submit" class="submit-btn">Add Assignment</button>
+        </form>
+
+        <section id="todo-list" class="todo-section">
+            <h3>Today's To-Do List</h3>
+            <ol id="list-container"></ol>
+        </section>
+
+        <section id="urgent-assignments" class="urgent-section">
+            <h3>Urgent Assignments</h3>
+            <ol id="urgent-list-container"></ol>
+        </section>
+
+        <!-- New Section: Completed Assignments -->
+        <section id="completed-assignments" class="completed-section">
+            <h3>Completed Assignments</h3>
+            <ol id="completed-list-container"></ol>
+        </section>
+
+        <!-- New Section: Quick Tips -->
+        <section id="quick-tips" class="tips-section">
+            <h3>Quick Tips</h3>
+            <button id="generate-schedule-btn">Make a Weekly Schedule</button>
+            <div id="weekly-schedule"></div> <!-- Container for the generated schedule -->
+            <!-- ... [other content] ... -->
+        </section>
+
+        <section id="todo-list" class="todo-section">
+            <h3>Today's To-Do List</h3>
+            <div id="search-container">
+                <input type="text" id="search-bar" placeholder="Search tasks...">
+            </div>
+            <ol id="list-container"></ol>
+        </section>
+
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <img src="/logo.png" alt="Course Compass Logo" id="header-logo">
+            <p>Course Compass © 2024</p>
+            <button id="contact-us">Contact Us</button>
+        </div>
+    </footer>
+    <script src="js/script.js"></script>
+</body>
+</html>
